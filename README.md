@@ -2,7 +2,7 @@
 
 ![n8n workflow](docs/images/workflow.png)
 
-Delivered a production-style anti-phishing automation that turns raw email content into an evidence-backed decision and a ready-to-share incident report — without manual SOC copy/paste.
+Delivered a production-style anti-phishing automation that turns raw email content into an evidence-backed decision and a ready-to-share incident report — with minimal SOC effort.
 
 ## Problem solved
 Phishing triage is usually slow and inconsistent: analysts must read emails, judge risk from wording, extract URLs, check VirusTotal, gather context, and then write both technical and executive summaries. This project automates that workflow to reduce triage time, standardize decisions, and produce consistent reports while keeping VirusTotal as the authoritative evidence source for URL verdicts.
